@@ -1,0 +1,3 @@
+# -- This is the gitignore file, I'll be using it to keep out PSD files and such
+
+*.psd
